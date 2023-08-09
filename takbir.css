@@ -1,0 +1,15 @@
+
+/* pake fontfce, download dlu file ny */
+@font-face {
+    font-family: "KaushanScript-Regular"; 
+    src: url("kaushan-script/KaushanScript-Regular.otf") format("opentype");
+}
+
+
+
+
+#arti, #doa , #teks ,#wirid{
+    font-family: "KaushanScript-Regular";
+    font-size: larger;
+    
+}
